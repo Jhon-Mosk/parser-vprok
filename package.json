@@ -1,0 +1,22 @@
+{
+  "name": "parser-vprok",
+  "version": "0.0.0",
+  "description": "парсер сайта https://www.vprok.ru",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  },
+  "author": {
+    "name": "Evgeniy Politiko",
+    "email": "Jhon-mosk@yandex.ru",
+    "url": "https://jhon-mosk.ru/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^20.11.1",
+    "npm": ">=10.2.4"
+  }
+}
